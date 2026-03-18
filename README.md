@@ -39,7 +39,7 @@ This project is my way of saying "thank you" to these incredible women and shari
 
 Check out how the slider looks in action:
 
-![Project Preview](preview.png)
+![Project Preview](images/preview.png)
 
 ## ⚠️ Important Note
 
